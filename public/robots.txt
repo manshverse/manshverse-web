@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /chat
+Disallow: /profile
+Disallow: /analytics
+
+Sitemap: https://manshverse.site/sitemap.xml
